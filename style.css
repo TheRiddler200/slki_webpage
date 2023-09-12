@@ -41,7 +41,7 @@ nav{
 }
 
 .main{
-    background-image: url(../snow.jpg);
+    background-image: url(./snow.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -88,7 +88,7 @@ nav{
 .box .img-canvas{
     width: 100%;
     height: 50%;
-    background-image: url(../pexels-cottonbro-studio-5137780.jpg);
+    background-image: url(./pexels-cottonbro-studio-5137780.jpg);
 
 
     
